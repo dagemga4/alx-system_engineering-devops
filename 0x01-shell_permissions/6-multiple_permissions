@@ -1,0 +1,3 @@
+#!/bin/bashi
+chmod ug+x,o+r hello
+
